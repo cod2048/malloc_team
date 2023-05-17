@@ -24,14 +24,18 @@
  ********************************************************/
 team_t team = {
     /* Team name */
-    "Oneju",
+    "Green_team_07",
     /* First member's full name */
     "Noh Wonju",
     /* First member's email address */
-    "wonju.noh.24@gmail.com",
-    /* Second member's full name (leave blank if none) */
     "",
+    /* Second member's full name (leave blank if none) */
+    "Park Junik",
     /* Second member's email address (leave blank if none) */
+    ""
+    /* Third member's full name (leave blank if none) */
+    "Jang Jaekyun",
+    /* Third member's email address (leave blank if none) */
     ""
 };
 
